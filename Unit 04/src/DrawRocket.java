@@ -1,3 +1,4 @@
+/*
 public class DrawRocket {
     private static final int _3 = 3;
     public static final int SIZE = _3;
@@ -75,3 +76,4 @@ public class DrawRocket {
         }
     }
 }
+*/

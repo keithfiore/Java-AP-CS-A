@@ -1,3 +1,5 @@
+/*
+
 import java.util.Random; 
 import java.util.Scanner;
 public class Main {
@@ -5,9 +7,8 @@ int turns = 0;
 int health = 20;
 int attack = 5;
 
-public Main() {
+public Main {
 	
-}
 private static String Meetings() {
 	Main ta = new Main();
 	String[] meetings10 = {"Adventurer", "Wandering Merchant", "Mysterious Person", "Bodyguard and his Charge"};
@@ -93,3 +94,4 @@ private static String Meetings() {
 	}
 
 }
+*/

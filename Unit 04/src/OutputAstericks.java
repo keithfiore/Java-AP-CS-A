@@ -1,4 +1,4 @@
-
+/*
 
 public class OutputAstericks {
 	public static String ShapeA() {
@@ -56,3 +56,4 @@ public class OutputAstericks {
 		System.out.println(ShapeC());
 	}
 }
+*/

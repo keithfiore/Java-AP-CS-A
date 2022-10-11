@@ -1,3 +1,4 @@
+/*
 import java.util.Scanner;
 
 public class BurgerFlippers {
@@ -37,4 +38,4 @@ public class BurgerFlippers {
 
     }
 }
-
+*/

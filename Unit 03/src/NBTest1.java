@@ -1,3 +1,4 @@
+/* 
 public class NBTest1 {
     public static void main(String[] args) {
         int x = 0;
@@ -10,5 +11,6 @@ public class NBTest1 {
     }
 
 }
+*/
 
 

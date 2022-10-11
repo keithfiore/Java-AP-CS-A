@@ -1,3 +1,4 @@
+/*
 public class EvenProduct {
     public static void main(String[] args) {
         int count = 0;
@@ -16,7 +17,7 @@ public class EvenProduct {
     } // end main
 }
 
-
+*/
 // Intended output:
 // Sum = 15
 // Product = 120

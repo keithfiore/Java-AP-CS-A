@@ -1,3 +1,4 @@
+/* 
 import java.util.Scanner;
 
 public class IsTwenties {
@@ -16,3 +17,4 @@ public class IsTwenties {
 
   }
 }
+*/

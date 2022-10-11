@@ -1,3 +1,4 @@
+/*
 import java.util.Scanner;
 
 
@@ -16,3 +17,4 @@ public class SumProduct {
         scan.close();
     }
 }
+*/
